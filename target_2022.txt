@@ -1,0 +1,7 @@
+Target:
+- Senin: episode 2 github;
+- Selasa: episode 4 github;
+- Rabu: episode 6 github;
+- Kamis: episode 10 github;
+- Jumat: episode 14 github;
+- Sabtu: AWS
